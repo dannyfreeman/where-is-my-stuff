@@ -1,0 +1,5 @@
+#+TITLE: Where is my stuff?
+#+AUTHOR: Danny Freeman
+
+I migrated all my projects over to gitlab. 
+Head on over to [[https://gitlab.com/dannyfreeman][https://gitlab.com/dannyfreeman]] to see them.
